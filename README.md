@@ -5,6 +5,6 @@ The LinkedIn platform contains extensive and diverse data related to user profil
 
 ## Objectives
 1.Analyze user activity patterns to develop strategies that increase user interaction and reduce churn.<br>
-2.Identify the types of content that generate the most engagement and tailor content creation efforts accordingly.
-3.Analyze education and career data to provide insights into typical career pathways
-4.Study user connection patterns to enhance features that facilitate networking and collaboration.
+2.Identify the types of content that generate the most engagement and tailor content creation efforts accordingly.<br>
+3.Analyze education and career data to provide insights into typical career pathways.<br>
+4.Study user connection patterns to enhance features that facilitate networking and collaboration.<br>

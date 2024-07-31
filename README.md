@@ -2,3 +2,9 @@
 
 ## Problem Statement
 The LinkedIn platform contains extensive and diverse data related to user profiles, connections, posts, comments, likes, shares, and more. Managing, integrating, and analyzing this vast amount of data effectively is challenging, but crucial for deriving actionable insights and enabling real-time decision-making. Leveraging Informatica PowerCenter's ETL capabilities can streamline data processing, ensure data quality, and provide comprehensive analytics and reporting for LinkedIn.
+
+## Objectives
+1.Analyze user activity patterns to develop strategies that increase user interaction and reduce churn.
+2.Identify the types of content that generate the most engagement and tailor content creation efforts accordingly.
+3.Analyze education and career data to provide insights into typical career pathways
+4.Study user connection patterns to enhance features that facilitate networking and collaboration.

@@ -8,3 +8,7 @@ The LinkedIn platform contains extensive and diverse data related to user profil
 2.Identify the types of content that generate the most engagement and tailor content creation efforts accordingly.<br>
 3.Analyze education and career data to provide insights into typical career pathways.<br>
 4.Study user connection patterns to enhance features that facilitate networking and collaboration.<br>
+
+## ER Diagram
+![image](https://github.com/user-attachments/assets/5e181bc4-03e5-4f6e-94d5-c18031888c25)
+
